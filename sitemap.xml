@@ -3,7 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://irshimul.github.io/publication-type/3/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://irshimul.github.io/authors/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/author/hasan-murad/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/author/imranur-rahman/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/publication_types/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/publication/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/publication/secureimgstego/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/tag/security/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/author/shagufta-mehnaz/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/author/sohrab-hossain/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/tag/steganalysis/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/tag/steganography/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/tags/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irshimul.github.io/author/trishna-chakraborty/</loc>
+    <lastmod>2021-05-17T15:01:01+06:00</lastmod>
   </url>
   
   <url>
@@ -19,10 +95,6 @@
   </url>
   
   <url>
-    <loc>https://irshimul.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://irshimul.github.io/author/imranur-rahman/</loc>
   </url>
   
@@ -31,19 +103,7 @@
   </url>
   
   <url>
-    <loc>https://irshimul.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://irshimul.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://irshimul.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://irshimul.github.io/tags/</loc>
   </url>
   
 </urlset>
